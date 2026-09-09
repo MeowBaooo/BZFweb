@@ -1,0 +1,9 @@
+{
+  "name": "measurement-material-select",
+  "version": "1.0.0",
+  "description": "丈量預約單 - 選材網站，直接寫入BizForm丈量預約單範本表單",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "express": "^4.19.2" }
+}
